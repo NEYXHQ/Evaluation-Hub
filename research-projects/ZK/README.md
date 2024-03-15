@@ -19,10 +19,6 @@ The aim of this directory is to gather, organize, and share materials, code snip
 
 Contributions are welcome! If you have any research, resources, or insights related to Zero-Knowledge Proofs, please feel free to add them to this repository. Ensure that your contributions are well-documented and include any necessary references or acknowledgments.
 
-## Contact
-
-For any inquiries or discussions related to the materials in this folder, please reach out to [Your Contact Information].
-
 ---
 
 This folder is a collaborative effort to advance the understanding and implementation of Zero-Knowledge Proofs. Your contributions and insights are highly valued.
