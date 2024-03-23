@@ -19,3 +19,17 @@ The possibilities of zkSNARKs are impressive; you can verify the correctness of 
 
 ## Part 1
 RSA encryption and its pivotal role in zero-knowledge proofs, a concept integral to zkSNARKs. It elucidates RSA's homomorphic properties, enabling encrypted data verification without exposing the original values. The section demonstrates how a prover can validate computations through encrypted messages, ensuring the verifier learns only the result's correctness, not the data itself. This principle is foundational for understanding zkSNARKs, as it illustrates how cryptographic techniques can underpin privacy-preserving verification processes, crucial for secure and confidential blockchain transactions and computational validations.
+
+## Part 2
+NP and complexity-theoretic reductions, crucial for understanding the applicability of zkSNARKs in computational problems. Here's a summary of this section:
+
+## - P and NP Classes
+The document explains the complexity classes P and NP. P includes problems that can be solved in polynomial time, while NP comprises problems for which solutions can be verified in polynomial time. It's noted that every problem in P is also in NP, but the opposite is not proven.
+## - NP-Completeness and SAT
+The document introduces the concept of NP-completeness, with SAT (Boolean satisfiability problem) highlighted as a quintessential NP-complete problem. This section explains how any problem in NP can be reduced to SAT, demonstrating the universality and significance of NP-complete problems.
+## - Reductions and Witnesses
+Through reductions, one problem can be transformed into another, maintaining their solution equivalence. This transformation is crucial for zkSNARKs, as it allows complex computational problems to be converted into a standard form that zkSNARKs can handle. The concept of a "witness" is introduced, which is essentially additional information that helps verify a solution to an NP problem.
+## - P = NP?
+he document touches on the famous P vs. NP problem, highlighting its significance and the massive implications of solving this problem, particularly for fields like cryptography and blockchain.
+## - Application to zkSNARKs
+The discussion connects these theoretical concepts to zkSNARKs, explaining how understanding NP and reductions is vital for implementing zkSNARKs effectively. zkSNARKs are applicable to all problems in NP, underscoring their broad potential in verifying computations efficiently and securely.
