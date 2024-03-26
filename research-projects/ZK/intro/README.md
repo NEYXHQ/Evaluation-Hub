@@ -45,3 +45,12 @@ The discussion connects these theoretical concepts to zkSNARKs, explaining how u
 4. **Relevance to Cryptography and zkSNARKs**: The discussion then ties QSPs to the broader context of zkSNARKs, explaining how they provide a suitable structure for encoding computational problems in a way that's compatible with the zkSNARK framework. This encoding is crucial for the verification process in zkSNARKs, where proving knowledge of a solution to a QSP correlates to proving the correctness of a computation without revealing the details.
 
 This section is essential for understanding how complex computational problems are translated into a mathematical structure that zkSNARKs can work with, enabling efficient verification of computations without revealing the computation details or the inputs used.
+
+## Part 4
+detailed workings of zkSNARKs, specifically for Quadratic Span Programs (QSP). Here's a summary:
+
+1. **Setup Phase**: The zkSNARK setup for QSP involves choosing secret numbers and generating a common reference string (CRS). This CRS contains encrypted values of the polynomials involved in the QSP at a secret point, which are essential for the subsequent verification process.
+2. **Polynomial Evaluation**: The document explains how a prover can compute the encrypted value of a polynomial at a secret point using the CRS. This process ensures that the verifier can confirm the correctness of the computation without knowing the secret or the specific details of the polynomial.
+3. **QSP SNARK**: The core of the SNARK for QSP is to demonstrate that a certain linear combination of polynomials equals another polynomial times a target polynomial. The prover sends specific encrypted values to the verifier, who then checks these values against the CRS using pairing functions to verify the proof.
+4. **Adding Zero-Knowledge**: The zero-knowledge aspect is enhanced by the prover making certain modifications to the values sent to the verifier, ensuring that the verifier can confirm the proof's validity without gaining any knowledge about the secret values or the witness.
+5. **Verification**: The verifier checks the provided proofs using pairing functions, ensuring that the computed values align with the CRS and the properties of the encrypted polynomials. This process verifies the correctness of the prover's claim without revealing the underlying data.
