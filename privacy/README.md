@@ -1,4 +1,4 @@
-# Blockchain and Privacy: Summaries of Key Insights
+# Blockchain and Privacy - Key points of documents in this folder
 
 ## Document 1: Privacy-Protecting Regulatory Solutions Using Zero-Knowledge Proofs
 
