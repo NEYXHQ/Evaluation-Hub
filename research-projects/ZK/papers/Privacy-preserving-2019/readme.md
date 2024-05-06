@@ -25,5 +25,11 @@ This paper conducts a systematic review of the latest developments in privacy-pr
 ## Conclusion
 This review highlights the need for ongoing development in blockchain privacy technologies to address the evolving landscape of digital transactions and regulatory requirements.
 
-## Citation
-- Privacy-Preserving Solutions for Blockchain: Review and Challenges, IEEE Access, Volume 7, Published on 31 October 2019, Electronic ISSN: 2169-3536, DOI: 10.1109/ACCESS.2019.2950872
+![Different Techs](https://github.com/NEYXHQ/Evaluation-Hub/blob/main/research-projects/ZK/papers/Privacy-preserving-2019/berna.t2-2950872-large.gif%20820×550%20pixels.png)
+
+![Different Techs](https://github.com/NEYXHQ/Evaluation-Hub/blob/main/research-projects/ZK/papers/Privacy-preserving-2019/berna.t5-2950872-large.gif%20820×535%20pixels.png)
+
+![Different Techs](https://github.com/NEYXHQ/Evaluation-Hub/blob/main/research-projects/ZK/papers/Privacy-preserving-2019/Privacy-Preserving%20Solutions%20for%20Blockchain%20Review%20and%20Challenges%20%20IEEE%20Journals%20%26%20Magazine%20%20IEEE%20Xplore.png)
+
+
+
