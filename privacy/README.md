@@ -24,3 +24,7 @@ This paper introduces and analyzes Privacy Pools, a smart contract-based protoco
 
 These summaries encapsulate the essence of the two documents, offering a glimpse into the potential of zero-knowledge proofs in reconciling privacy with regulatory demands in the blockchain space.
 
+## Document 3: Privacy-preserving auditable token payments in a permissioned blockchain system
+
+he document titled "Privacy-preserving Auditable Token Payments in a Permissioned Blockchain System" by Elli Androulaki and others focuses on the challenges and solutions for creating a token management system that is suitable for permissioned enterprise blockchains.
+
