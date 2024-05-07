@@ -28,3 +28,4 @@ These summaries encapsulate the essence of the two documents, offering a glimpse
 
 he document titled "Privacy-preserving Auditable Token Payments in a Permissioned Blockchain System" by Elli Androulaki and others focuses on the challenges and solutions for creating a token management system that is suitable for permissioned enterprise blockchains.
 
+![alt text](https://github.com/NEYXHQ/Evaluation-Hub/blob/main/privacy/03%20-%20PPA%20-%20Actors.png)
