@@ -38,3 +38,6 @@ Concludes with a discussion of the current challenges and open questions in few-
 
 ## List of Tables
 Describes tables included in the document that summarize key concepts, methodologies, and results from various few-shot learning studies.
+
+# Comparative ML Algos to enhance blockchain
+The study addresses the challenge of detecting fraudulent transactions in blockchain networks, a longstanding problem affecting economic stability and user trust. The paper evaluates various supervised machine learning models to identify fraudulent transactions, aiming to provide insights into the best-performing algorithms.
